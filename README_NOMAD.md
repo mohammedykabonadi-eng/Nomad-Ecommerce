@@ -8,7 +8,7 @@
 
 ### Sales Revenue Analysis (2019–2022)
 
-[![Sales Revenue](https://raw.githubusercontent.com/mohammedykabonadi-eng/Nomad-Ecommerce/main/charts/chart_sales_revenue.png)](https://raw.githubusercontent.com/mohammedykabonadi-eng/Nomad-Ecommerce/main/charts/chart_sales_revenue.png)
+[![Sales Revenue](https://raw.githubusercontent.com/mohammedykabonadi-eng/Nomad-Ecommerce/main/charts/chart_sales_revenue.png)]([https://raw.githubusercontent.com/mohammedykabonadi-eng/Nomad-Ecommerce/main/charts/chart_sales_revenue.png](https://github.com/mohammedykabonadi-eng/Nomad-Ecommerce/blob/main/Charts/chart_sales_revenue.png))
 
 |  |  |
 | --- | --- |
